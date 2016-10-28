@@ -1,0 +1,316 @@
+<div class="banner-box">
+		<div class="banner">
+			<div class="banner-wrap">
+				<div class="fenlei">
+					<a href="">全部分类</a>
+				</div>
+				<ul class="list">
+					<li><a href=""><span>银泰百货</span></a></li>
+					<li><a href=""><span>名品馆</span></a></li>
+					<li><a href=""><span>特卖</span></a></li>
+					<li><a href=""><span>海淘馆</span></a></li>
+				</ul>
+				<div class="grades">
+					<a href="">积分商城</a>
+					<span>|</span>
+					<a href="">全部品牌</a>
+				</div>
+			</div>
+			<div class="banner-img">
+				
+				<div class="img-box">
+					<a href=""><img src="img/ban1.jpg" alt=""></a>
+					<a href=""><img src="img/ban2.jpg" alt=""></a>
+					<a href=""><img src="img/ban3.jpg" alt=""></a>
+					<a href=""><img src="img/ban4.jpg" alt=""></a>
+				</div>
+					<ul class="btn">
+						<li class="anbtn"></li>
+						<li></li>
+						<li></li>
+						<li></li>
+				    </ul>
+				<div class="cebtn">
+				    <a href="javascript:;"><div class="celeft">&lt</div></a>
+					<a href="javascript:;"><div class="ceright">&gt</div></a>
+				</div>
+				
+	            <!-- <div class="left">
+	                        <div class="dyfl_box">
+								<a href="#"><img src="img/mp.png" class="mp" alt=""></a>
+					  			<a href="#"><span class="minpin">名品</span></a>
+					  			<span class="shug">|</span>
+					  			<a href="#" class="cxsx">秋尚新</a>
+					  			<img src="img/yjt.png" alt="" class="y">
+					  		</div>
+							<div class="dyfl_box">
+								<a href="#"><img src="img/nz.png" class="mp" alt=""></a>
+					  			<a href="#"><span class="minpin">女装</span></a>
+					  			<span class="shug">|</span>
+					  			<a href="#" class="cxsx">连衣裙</a>
+					  			<img src="img/yjt.png" alt="" class="y">
+					  		</div>
+					  		<div class="dyfl_box">
+					  			<a href="#"><img src="img/nanz.png" class="mp" alt=""></a>
+					  			<a href="#"><span class="minpin">男装</span></a>
+					  			<span class="shug">|</span>
+					  			<a href="#" class="cxsx">型男专场</a>
+					  			<img src="img/yjt.png" alt="" class="yjt">
+					  		</div>
+					  		<div class="dyfl_box">
+					  			<a href="#"><img src="img/xx.png" class="mp" alt=""></a>
+					  			<a href="#"><span class="minpin">鞋靴</span></a>
+					  			<span class="shug">|</span>
+					  			<a href="#" class="cxsx">时尚鞋品</a>
+					  			<img src="img/yjt.png" alt="" class="yjt">
+					  		</div>
+					  		<div class="dyfl_box">
+					  			<a href="#"><img src="img/mz.png" class="mp" alt=""></a>
+					  			<a href="#"><span class="minpin">美妆</span></a>
+					  			<span class="shug">|</span>
+					  			<a href="#" class="cxsx">隔离防晒</a>
+					  			<img src="img/yjt.png" alt="" class="yjt">
+					  		</div>
+					  		<div class="dyfl_box">
+					  			<a href="#"><img src="img/xb.png" class="mp" alt=""></a>
+					  			<a href="#"><span class="minpin">箱包</span></a>
+					  			<span class="shug">|</span>
+					  			<a href="#" class="cxsx">女神单肩</a>
+					  			<img src="img/yjt.png" alt="" class="yjt">
+					  		</div>
+					  		<div class="dyfl_box">
+					  			<a href="#"><img src="img/yd.png" class="mp" alt=""></a>
+					  			<a href="#"><span class="minpin">运动</span></a>
+					  			<span class="shug">|</span>
+					  			<a href="#" class="cxsx">运动鞋服</a>
+					  			<img src="img/yjt.png" alt="" class="yjt">
+					  		</div>
+					  		<div class="dyfl_box">
+					  			<a href="#"><img src="img/ps.png" class="mp" alt=""></a>
+					  			<a href="#"><span class="minpin">配饰</span></a>
+					  			<span class="shug">|</span>
+					  			<a href="#" class="cxsx">黄金饰品</a>
+					  			<img src="img/yjt.png" alt="" class="yjt">
+					  		</div>
+					  		<div class="dyfl_box">
+					  			<a href="#"><img src="img/yt.png" class="mp" alt=""></a>
+					  			<a href="#"><span class="minpin">婴童</span></a>
+					  			<span class="shug">|</span>
+					  			<a href="#" class="cxsx">母婴</a>
+					  			<img src="img/yjt.png" alt="" class="j">
+					  		</div>
+					  		<div class="dyfl_box">
+					  			<a href="#"><img src="img/ny.png" class="mp" alt=""></a>
+					  			<a href="#"><span class="minpin">内衣</span></a>
+					  			<span class="shug">|</span>
+					  			<a href="#" class="cxsx">塑身内衣</a>
+					  			<img src="img/yjt.png" alt="" class="yjt">
+					  		</div>
+		  		
+			    </div> -->
+			  <!--   <div class="right">
+			    	<a href=""><img src="img/rban.png" alt=""></a>
+			    </div> -->
+			
+				
+		    </div>
+		</div>
+	</div>
+
+
+				<div class="xu-box">
+				<div class="xu">
+					<a href=""><img src="img/shice1.jpg" alt=""></a>
+					<a href=""><img src="img/shice2.jpg" alt=""></a>
+					<a href=""><img src="img/shice3.jpg" alt=""></a>
+					<a href=""><img src="img/shice4.jpg" alt=""></a>
+				</div>
+				<div class="xuce">
+					<div class="xuleft">
+						<a href=""></a>
+					</div>
+					<div class="xuright">
+						<a href=""></a>
+					</div>
+				</div>
+			</div>
+
+
+
+		<div class="right">
+			<ul class="title">
+			<li>
+			    <a href="javascript:;">热门品牌
+                <span class="sanjiao1"></span>
+                </a>
+            </li>
+			<li>
+			    
+				<a href="javascript:;">本周推荐</a>
+				<span class="sanjiao1"></span>
+			</li>
+				
+				
+			</ul>
+			<div class="zhuti-box">
+				<div class="zhuti">
+					<a href="" class="zhu1">
+						<img src="img/zhu1.jpg" alt="">
+					</a>
+					<a href="" class="zhu2">
+						<img src="img/zhu2.jpg" alt="">
+					</a>
+					<a href="" class="zhu3">
+						<img src="img/zhu3.jpg" alt="">
+					</a>
+					<a href="" class="zhu4">
+						<img src="img/zhu4.jpg" alt="">
+					</a>
+					<a href="" class="zhu5">
+						<img src="img/zhu5.jpg" alt="">
+					</a>
+					<a href="" class="zhu6">
+						<img src="img/zhu6.jpg" alt="">
+					</a>
+				</div>
+				
+				<div class="zhuti">
+					<ul>
+						<li class="z1">
+							<div class="zhutu">
+								<a href="">
+								    <img src="img/zhuan1.jpg" alt="">
+								</a>
+							</div>
+							<div class="zhuzi">
+								<p class="neirong">
+								<a href="">银泰百货武林店BASICHOUSE百家好女式T恤</a>
+								</p>
+								<p class="jiaqian">
+									<span class="shijia">￥118.80</span>
+									<span class="cankao">参考价：￥198</span>
+								</p>
+
+							</div>
+						</li>
+						<li  class="z2">
+							<div class="zhutu">
+								<a href="">
+								    <img src="img/zhuan2.jpg" alt="">
+								</a>
+							</div>
+							<div class="zhuzi">
+								<p class="neirong">
+								<a href="">银泰百货武林店BASICHOUSE百家好女式T恤</a>
+								</p>
+								<p class="jiaqian">
+									<span class="shijia">￥139</span>
+									<span class="cankao">参考价：￥158</span>
+								</p>
+
+							</div>
+						</li>
+						<li class="z3">
+							<div class="zhutu">
+								<a href="">
+								    <img src="img/zhuan3.jpg" alt="">
+								</a>
+							</div>
+							<div class="zhuzi">
+								<p class="neirong">
+								<a href="">银泰百货武林店BASICHOUSE百家好女式T恤</a>
+								</p>
+								<p class="jiaqian">
+									<span class="shijia">￥220.80</span>
+									<span class="cankao">参考价：￥368</span>
+								</p>
+
+							</div>
+						</li>
+						<li class="zhuti4">
+							<div class="zhutu">
+								<a href="">
+								    <img src="img/zhuan4.jpg" alt="">
+								</a>
+							</div>
+							<div class="zhuzi">
+								<p class="neirong">
+								<a href="">银泰百货武林店BASICHOUSE百家好女式T恤</a>
+								</p>
+								<p class="jiaqian">
+									<span class="shijia">￥160.80</span>
+									<span class="cankao">参考价：￥268</span>
+								</p>
+
+							</div>
+						</li>
+						<li class="z5">
+							<div class="zhutu">
+								<a href="">
+								    <img src="img/zhuan5.jpg" alt="">
+								</a>
+							</div>
+							<div class="zhuzi">
+								<p class="neirong">
+								<a href="">银泰百货杭州武林店EHE夏季男士短袖衬衫 夏 衬衫 商务 男</a>
+								</p>
+								<p class="jiaqian">
+									<span class="shijia">￥99</span>
+									<span class="cankao">参考价：￥599</span>
+								</p>
+
+							</div>
+						</li>
+						<li class="z6">
+							<div class="zhutu">
+								<a href="">
+								    <img src="img/zhuan6.jpg" alt="">
+								</a>
+							</div>
+							<div class="zhuzi">
+								<p class="neirong">
+								<a href="">银泰百货杭州武林店EHE男士七分袖衬衫</a>
+								</p>
+								<p class="jiaqian">
+									<span class="shijia">￥99</span>
+									<span class="cankao">参考价：￥799</span>
+								</p>
+
+							</div>
+						</li>
+						<li class="z7">
+							<div class="zhutu">
+								<a href="">
+								    <img src="img/zhuan7.jpg" alt="">
+								</a>
+							</div>
+							<div class="zhuzi">
+								<p class="neirong">
+								<a href="">银泰百货杭州武林店EHE夏季男士抽象印花v领休闲T恤衫</a>
+								</p>
+								<p class="jiaqian">
+									<span class="shijia">￥169</span>
+									<span class="cankao">参考价：￥399</span>
+								</p>
+
+							</div>
+						</li>
+						<li class="zhuti8">
+							<div class="zhutu">
+								<a href="">
+								    <img src="img/zhuan8.jpg" alt="">
+								</a>
+							</div>
+							<div class="zhuzi">
+								<p class="neirong">
+								<a href="">银泰百货杭州武林店EHE意大利潮牌 2015秋季男士印花翻领短袖T恤</a>
+								</p>
+								<p class="jiaqian">
+									<span class="shijia">￥199</span>
+									<span class="cankao">参考价：￥599</span>
+								</p>
+
+							</div>
+						</li>
+					</ul>
+				</div>
